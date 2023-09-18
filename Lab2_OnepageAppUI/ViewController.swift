@@ -1,0 +1,19 @@
+//
+//  ViewController.swift
+//  Lab2_OnepageAppUI
+//
+//  Created by user234887 on 9/18/23.
+//
+
+import UIKit
+
+class ViewController: UIViewController {
+
+    override func viewDidLoad() {
+        super.viewDidLoad()
+        // Do any additional setup after loading the view.
+    }
+
+
+}
+
